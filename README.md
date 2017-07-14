@@ -1,2 +1,0 @@
-# paddywebdesign
-My personal website
